@@ -1,4 +1,4 @@
-# MLP_Mixer-PyTorch
+# MLP-Mixer-PyTorch
 Implementing **MLP-Mixer** by PyTorch (in Colab) and applying to classification task.
 - Dataset: [link](https://www.kaggle.com/c/dogs-vs-cats/data)
 - Task: Binary Classification
